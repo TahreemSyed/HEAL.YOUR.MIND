@@ -38,8 +38,8 @@ export function Footer() {
         <div className="md:col-span-3">
           <h3 className="font-semibold mb-6 text-[10px] uppercase tracking-[0.3em] text-stone-500">Contact</h3>
           <ul className="space-y-4 text-[11px] tracking-wider text-stone-400">
-            <li><a href="mailto:hello@healyourmind.space" className="hover:text-stone-300 uppercase">hello@healyourmind.space</a></li>
-            <li className="uppercase">T: (555) 123-4567</li>
+            <li><a href="mailto:info@healyourmind.app" className="hover:text-stone-300 uppercase">info@healyourmind.app</a></li>
+            <li className="uppercase">T: (000) 000-0000</li>
             <li className="mt-8">
               <Link to="/assessment" className="inline-block border-b border-stone-500 hover:border-white text-stone-300 hover:text-white pb-1 transition-colors uppercase tracking-[0.2em] text-[10px]">
                 Free Assessment &rarr;

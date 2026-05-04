@@ -19,13 +19,13 @@ export function Contact() {
               <div className="space-y-8">
                 <div className="flex flex-col">
                   <h3 className="font-sans text-[11px] uppercase tracking-widest text-[#1a1a1a] mb-2">Primary Node</h3>
-                  <p className="text-stone-500 font-serif italic text-lg hover:text-[#1a1a1a] transition-colors cursor-pointer">hello@healyourmind.space</p>
+                  <p className="text-stone-500 font-serif italic text-lg hover:text-[#1a1a1a] transition-colors cursor-pointer">info@healyourmind.app</p>
                   <p className="font-sans text-[9px] uppercase tracking-widest text-stone-400 mt-2">Latency: &lt; 24h</p>
                 </div>
                 
                 <div className="flex flex-col">
                   <h3 className="font-sans text-[11px] uppercase tracking-widest text-[#1a1a1a] mb-2">Voice Array</h3>
-                  <p className="text-stone-500 font-serif italic text-lg hover:text-[#1a1a1a] transition-colors cursor-pointer">+1 (555) 123-4567</p>
+                  <p className="text-stone-500 font-serif italic text-lg hover:text-[#1a1a1a] transition-colors cursor-pointer">+1 (000) 000-0000</p>
                 </div>
               </div>
             </div>
@@ -36,8 +36,8 @@ export function Contact() {
                 <div className="flex flex-col">
                   <h3 className="font-sans text-[11px] uppercase tracking-widest text-[#1a1a1a] mb-2">Coordinates</h3>
                   <p className="text-stone-500 font-sans text-sm leading-relaxed">
-                    123 Wellness Ave, Sector 4<br/>
-                    New York, NY 10001
+                    Digital Operations Base<br/>
+                    Global Connectivity Path
                   </p>
                 </div>
                 
